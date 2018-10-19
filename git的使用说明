@@ -25,7 +25,8 @@
 
 
 三，vscode配置git
-
+0，修改git的路径：
+    选择file - preferences - setting  - Extensions  --  Git --在最后找到path ,点击 edit in settings.json.在打开的窗口右侧添加path，值为git.exe的路径，保存即可。
 1，用code打开git目录。
 2，修改任意一个文件。
 3，点击右侧active bar（第三个图标），在打开的窗口中，可以看到所有修改过的文件。

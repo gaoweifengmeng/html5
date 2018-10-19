@@ -1,0 +1,5 @@
+1，配置自动换行
+    文件  -> 首选项 -> 设置 -> 编辑器 -> ctrl+f查找wordWrap ，将off值修改为on即可。
+2，复制一行：
+    shift + out +down 或者是shift + out + 向下或者向上的箭头。
+
